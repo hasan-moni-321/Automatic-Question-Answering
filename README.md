@@ -17,4 +17,4 @@ Automatic-Question-Answering is a very popular technique that is used almost for
 convert those two words into one word as dog.
 10. All the character into lower case.
 11. I used CountVectorizer and TfidfVectorizer for creating vector.
-12. Fir similarity checking I used cosine_similarity and linear_kernel.
+12. For similarity checking I used cosine_similarity and linear_kernel.
