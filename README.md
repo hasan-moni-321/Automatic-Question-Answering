@@ -2,6 +2,8 @@
 
 I used Questin-Answering-Dataset from Kaggle that's link is https://www.kaggle.com/rtatman/questionanswer-dataset 
 
+Automatic-Question-Answering is a very popular technique that is used almost for every mid and high level business nowadays. And It's popularity increasing day by day. 
+
 ### What I did :-
 1. All the file was in txt format. I read those file as csv format.
 2. I took only three columns those are necessary for my project and that are Title, Question and Answer. 
